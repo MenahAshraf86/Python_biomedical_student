@@ -1,3 +1,10 @@
-# sheet 1:
-Q1_ 
+# sheet.1#
+
+Q1_ Write python code that asks 
+the user for his name and print
+Hello <name>.
+answer:
+name = input("Enter your name: ")
+print(f"Hello {name}")
+
 
